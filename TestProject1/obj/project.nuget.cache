@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "24sC4FDTtu3pQAOzcWxKZNZwCB1ThryqEiESlVrb5h+LkZJXWB5CZLqlgTary4gRadlMJYTzkj9z9HlzY/JRcQ==",
+  "dgSpecHash": "/zxLSojQ/ZFO9i1G102fbXj8VYUXTUg0wC3ZWh9C8lJw3JletwVAmzow3eAAC00X1YSs0n/28lkWqazvV8uajg==",
   "success": true,
   "projectFilePath": "D:\\Devops\\BankEmployeeModule\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,7 @@
     "C:\\Users\\laevi.antony\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\laevi.antony\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.9.0\\microsoft.testplatform.objectmodel.17.9.0.nupkg.sha512",
     "C:\\Users\\laevi.antony\\.nuget\\packages\\microsoft.testplatform.testhost\\17.9.0\\microsoft.testplatform.testhost.17.9.0.nupkg.sha512",
+    "C:\\Users\\laevi.antony\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\laevi.antony\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
     "C:\\Users\\laevi.antony\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\laevi.antony\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",

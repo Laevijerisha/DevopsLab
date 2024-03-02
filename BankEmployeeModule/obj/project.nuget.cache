@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YbJe3ZgRmqhmM/29a1LhLrwGgY8XYrXIPAh9ZqO3HhMCuot6/TlobhsOAf5Aw476xQcjK7KlhZmQRQrorw5M4A==",
+  "dgSpecHash": "1frlsLxUe3eiSr8ni7D1OoSWPoOAgrav2nX/ZYh/zYqW5waBKolatgiyK5gu2l7f2ulSFJnyRXbcYXxx+UJloQ==",
   "success": true,
   "projectFilePath": "D:\\Devops\\BankEmployeeModule\\BankEmployeeModule\\BankEmployeeModule.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,7 @@
     "C:\\Users\\laevi.antony\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\laevi.antony\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.9.0\\microsoft.testplatform.objectmodel.17.9.0.nupkg.sha512",
     "C:\\Users\\laevi.antony\\.nuget\\packages\\microsoft.testplatform.testhost\\17.9.0\\microsoft.testplatform.testhost.17.9.0.nupkg.sha512",
+    "C:\\Users\\laevi.antony\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\laevi.antony\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\laevi.antony\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\laevi.antony\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
